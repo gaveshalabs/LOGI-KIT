@@ -9,4 +9,4 @@ LOGI-KIT is an educational mini-computer designed to help students and electroni
 
 It integrates all the essential electronics lab instruments into one device, including a digital oscilloscope, an analog/digital signal generator, and a digital power supply. With everything built in, LOGI-KIT is the all-in-one solution for learning and exploring digital electronics.
 
-![Gavesh LOGI-KIT](./extras/LOGI-KIT\ Drawing.png)
+![Gavesh LOGI-KIT](./extras/drawing.png)
