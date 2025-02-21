@@ -23,3 +23,9 @@ This makes LOGI-KIT the all-in-one solution for learning and exploring digital e
 
 ![Gavesh LOGI-KIT](./extras/drawing.png)
 
+# How to get start
+
+Download the [Gavesh® App](https://play.google.com/store/apps/details?id=space.gaveshalabs.gavesha) from Play store and open the Digital Electronics course. Everything you need will be available there! 
+
+Enjoy learning!
+
